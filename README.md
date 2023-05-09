@@ -1,5 +1,4 @@
 # TeleFilesStore-2 
-### [Cloned](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
@@ -28,10 +27,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
+Create config.py appropriately>
 python3 main.py
 ````
 
